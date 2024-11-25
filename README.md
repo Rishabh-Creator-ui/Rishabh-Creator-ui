@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabh-Creator-ui
+- 👋 Hi, I’m Rishabh Thapa
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
